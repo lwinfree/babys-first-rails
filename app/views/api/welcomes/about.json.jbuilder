@@ -1,0 +1,1 @@
+json.about = "My favorite language is #{@fav_language}."
